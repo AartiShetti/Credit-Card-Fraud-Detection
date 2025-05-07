@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-![image](https://github.com/user-attachments/assets/a41aba7b-d074-40e6-b401-8baecd6113d6)
+![image](https://github.com/user-attachments/assets/06f14f4d-e7c0-432f-9fac-003bf2ad43c1)
 
 # Problem statement
 The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
