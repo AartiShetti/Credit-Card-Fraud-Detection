@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/06f14f4d-e7c0-432f-9fac-003bf2ad43c1)
 
 # Problem statement
-The problem statement chosen for this project is to predict fraudulent credit card transactions with the help of machine learning models.
+The problem statement for this project is to predict fraudulent credit card transactions with the help of machine learning models.
 
 In this project, we will analyse customer-level data which has been collected and analysed .
 
